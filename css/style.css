@@ -1,0 +1,41 @@
+body {
+    background: #FBF8EF;
+    margin-left: 30px;
+    margin-right: 200px;
+}
+
+ul {
+    font-family: 'Nunito', sans-serif;
+}
+
+header {
+    margin-top: 70px;
+}
+
+h1 {
+    color: rgb(68, 70, 70);
+    font-family: 'Nunito', sans-serif;
+}
+
+h2 {
+    color: rgb(68, 70, 70);
+    font-family: 'Nunito', sans-serif;
+}
+
+p {
+    font-size: 18px;
+    font-family: 'Nunito', sans-serif;
+}
+
+footer {
+    margin-bottom: 30px;
+}
+
+.img_padrao {
+    margin-bottom: 20px;
+    width: 300px;
+}
+
+.img_contato {
+    width: 30px;
+}
